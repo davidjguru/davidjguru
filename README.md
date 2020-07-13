@@ -6,6 +6,7 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects, very focu
 - My personal website: [https://www.therussianlullaby.com](https://www.therussianlullaby.com).  
 - My personal sketchbook: [https://davidjguru.github.io](https://davidjguru.github.io/).
 - My Gitlab profile: [https://gitlab.com/davidjguru](https://gitlab.com/davidjguru).
+- My Drupal Custom Modules Sandbox, for testing ideas and saving the examples from posts: [https://gitlab.com/davidjguru/drupal-custom-modules-examples](https://gitlab.com/davidjguru/drupal-custom-modules-examples).
 - My collection of Snippets: [https://gitlab.com/users/davidjguru/snippets](https://gitlab.com/users/davidjguru/snippets).
 - My profile in dev.to: [https://dev.to/davidjguru](https://dev.to/davidjguru).
 - My Linkedin profile: [https://www.linkedin.com/in/davidjguru](https://www.linkedin.com/in/davidjguru/).
