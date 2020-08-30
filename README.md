@@ -1,8 +1,13 @@
-### Hi there 👋
+# Hi there 👋, I'm David Rodríguez
+<img src="https://i.imgur.com/rAHIIYJ.png">
+
+## Who am I?
 My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...it's been too long since that. 
 
-Now I'm a Software Engineer working with PHP in Drupal-based projects, very focused on the design of architectures and certain Drupal APIs such as Migrate API and its backend in general. In my free time I collaborate with [Open Source Software](https://www.redhat.com/en/topics/open-source/what-is-open-source) implementing patches for Drupal or spreading through articles I write in different channels:  
+## What do I work on?
+Now I'm a Software Engineer working with PHP in Drupal-based projects, very focused on the design of architectures and certain Drupal APIs such as Migrate API and its backend in general. In my free time I collaborate with [Open Source Software](https://www.redhat.com/en/topics/open-source/what-is-open-source) implementing patches for Drupal or spreading through articles I'm writing in different channels...
 
+## Where do you can see me?
 - My personal website: [https://www.therussianlullaby.com](https://www.therussianlullaby.com).  
 - My personal sketchbook: [https://davidjguru.github.io](https://davidjguru.github.io/).
 - My Gitlab profile: [https://gitlab.com/davidjguru](https://gitlab.com/davidjguru).
@@ -15,7 +20,7 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects, very focu
 
 Here you can see my profile in Drupal.org: [https://www.drupal.org/u/davidjguru](https://www.drupal.org/u/davidjguru).
 
----More:----
+## ---More:----
 
 - 🔭 I’m currently working on Drupal sites and platforms, as Drupal Center Leader Specialist (CLS) in Everis.
 - 🌱 I’m currently learning about some JavaScript frameworks.
