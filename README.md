@@ -5,7 +5,7 @@
 My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...it's been too long since that. 
 
 ## What do I work on?
-Now I'm a Software Engineer working with PHP in Drupal-based projects, very focused on the design of architectures and certain Drupal APIs such as Migrate API and its backend in general. In my free time I collaborate with [Open Source Software](https://www.redhat.com/en/topics/open-source/what-is-open-source) implementing patches for Drupal or spreading through articles I'm writing in different channels...
+Now I'm a Software Engineer working with PHP in Drupal-based projects, very focused on the design of architectures and certain Drupal APIs such as Migrate API and its backend in general. In my spare time I'm collaborating with [Open Source Software](https://www.redhat.com/en/topics/open-source/what-is-open-source) implementing patches for Drupal or spreading through articles I'm writing in different channels...
 
 ## Where do you can see me?
 - My personal website: [https://www.therussianlullaby.com](https://www.therussianlullaby.com).  
@@ -22,7 +22,7 @@ Here you can see my profile in Drupal.org: [https://www.drupal.org/u/davidjguru]
 
 ## ---More:----
 
-- 🔭 I’m currently working on Drupal sites and platforms, as Drupal Center Leader Specialist (CLS) in Everis.
+- 🔭 I’m currently working in Drupal sites and platforms, as (Drupal) Senior Software Developer in Solucionex // SLX.
 - 🌱 I’m currently learning about some JavaScript frameworks.
 - 👯 I’m looking to collaborate on PHP-based projects.
 - 💬 Ask me about Drupal. 
