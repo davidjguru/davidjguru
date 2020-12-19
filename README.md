@@ -1,5 +1,6 @@
-# Hi there 👋, I'm David Rodríguez
-<img src="https://i.imgur.com/rAHIIYJ.png">
+# Hi there 👋, I'm David Rodríguez, [@davidjguru](https://twitter.com/davidjguru)
+<img src="https://imgur.com/may08EN">
+* Credits: the original image was taken from Unsplash, user [@samuelbryngelsson](https://unsplash.com/@samuelbryngelsson)  
 
 ## Who am I?
 My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...it's been too long since that. 
