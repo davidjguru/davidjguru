@@ -1,5 +1,5 @@
 # Hi there 👋, I'm David Rodríguez, [@davidjguru](https://twitter.com/davidjguru)
-<img src="https://imgur.com/may08EN">
+<img src="https://i.imgur.com/may08EN.png">
 * Credits: the original image was taken from Unsplash, user [@samuelbryngelsson](https://unsplash.com/@samuelbryngelsson)  
 
 ## Who am I?
