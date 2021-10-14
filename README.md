@@ -23,7 +23,7 @@ Here you can see my profile in Drupal.org: [https://www.drupal.org/u/davidjguru]
 
 ## ---More:----
 
-- 🔭 I’m currently working in Drupal sites and platforms, as Senior Drupal Developer in Digitalis Sweden.
+- 🔭 I’m currently working in Drupal sites and platforms, as Senior Drupal Developer in Digitalist Sweden.
 - 🌱 I’m currently learning about some JavaScript frameworks.
 - 👯 I’m looking to collaborate on PHP-based projects.
 - 💬 Ask me about Drupal. 
