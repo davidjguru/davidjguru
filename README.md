@@ -1,5 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm David Rodríguez, [@davidjguru](https://twitter.com/davidjguru)
-<img src="https://i.imgur.com/may08EN.png" alt="Display image header for The Russian Lullaby website.">   
+<img src="https://i.imgur.com/may08EN.png" alt="Display image header for The Russian Lullaby website."/>   
 
 - **Credits:** the original image was taken from Unsplash, user [@samuelbryngelsson](https://unsplash.com/@samuelbryngelsson).  
  
@@ -14,13 +14,21 @@
 
 ## Thank you for your visit! ![visitors](https://visitor-badge.glitch.me/badge?page_id=davidjguru.davidjguru&left_color=green&right_color=red)  
 
-## Who am I?
+## Who am I? <img src="https://media.giphy.com/media/M9UVevFomIBjOsPDck/giphy.gif" width="40px">
 My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...a long time has passed since then.  
 
-## What do I work on?
+## What do I work on? <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="40px">
 Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digitalist Sweden](https://www.digitalist.se/english) in a Drupal-focused large team, and I'm very aligned with the design of architectures and certain Drupal APIs such as Migrate API and its backend in general. In my spare time I'm collaborating with [Open Source Software](https://www.redhat.com/en/topics/open-source/what-is-open-source) implementing patches for Drupal or spreading through articles I'm writing in different channels...
 
-## Where do you can see me?
+ ## My GitHub Stats <img src="https://media.giphy.com/media/UqYGedG0TrJMsFOn7V/giphy.gif" width="40px">
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidjguru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidjguru&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
+## Where do you can see me? <img src="https://media.giphy.com/media/pWBz26C8pAATK/giphy.gif" width="40px">
 - My personal website: [https://www.therussianlullaby.com](https://www.therussianlullaby.com).  
 - My personal sketchbook: [https://davidjguru.github.io](https://davidjguru.github.io/).
 - My Gitlab profile: [https://gitlab.com/davidjguru](https://gitlab.com/davidjguru).
