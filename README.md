@@ -1,9 +1,18 @@
-# Hi there 👋, I'm David Rodríguez, [@davidjguru](https://twitter.com/davidjguru)
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm David Rodríguez, [@davidjguru](https://twitter.com/davidjguru)
 <img src="https://i.imgur.com/may08EN.png">
-* Credits: the original image was taken from Unsplash, user @samuelbryngelsson from: https://unsplash.com/@samuelbryngelsson.   
+- **Credits:** the original image was taken from Unsplash, user [@samuelbryngelsson](https://unsplash.com/@samuelbryngelsson).  
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidjguru/)  
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?logo=firefox&logoColor=white)](https://www.therussianlullaby.com/)  
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white)](https://twitter.com/davidjguru)  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?logo=Instagram&logoColor=white)](https://www.instagram.com/davidjguru/)  
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?logo=medium&logoColor=white)](https://davidjguru.medium.com/)  
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-orange?logo=gitlab)](https://gitlab.com/davidjguru)  
+[![Drupal.org Badge](https://img.shields.io/badge/-Drupal.org-blue?logo=drupal)](https://www.drupal.org/u/davidjguru)  
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?logo=Telegram&logoColor=white)](https://t.me/davidjguru)  
 
 ## Who am I?
-My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...it's been too long since that. 
+My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...a long time has passed since then.  
 
 ## What do I work on?
 Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digitalist Sweden](https://www.digitalist.se/english) in a Drupal-focused large team, and I'm very aligned with the design of architectures and certain Drupal APIs such as Migrate API and its backend in general. In my spare time I'm collaborating with [Open Source Software](https://www.redhat.com/en/topics/open-source/what-is-open-source) implementing patches for Drupal or spreading through articles I'm writing in different channels...
