@@ -12,15 +12,15 @@
 [![Drupal.org Badge](https://img.shields.io/badge/-Drupal.org-blue?logo=drupal)](https://www.drupal.org/u/davidjguru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?logo=Telegram&logoColor=white)](https://t.me/davidjguru)
 
-## Thank you for your visit! ![visitors](https://visitor-badge.glitch.me/badge?page_id=davidjguru.davidjguru&left_color=green&right_color=red)  
+### Thank you for your visit! ![visitors](https://visitor-badge.glitch.me/badge?page_id=davidjguru.davidjguru&left_color=green&right_color=red)  
 
-## Who am I? <img src="https://media.giphy.com/media/M9UVevFomIBjOsPDck/giphy.gif" width="40px">
+## Who am I? <img src="https://media.giphy.com/media/M9UVevFomIBjOsPDck/giphy.gif" width="100px">
 My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...a long time has passed since then.  
 
-## What do I work on? <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="40px">
+## What do I work on? <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="100px">
 Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digitalist Sweden](https://www.digitalist.se/english) in a Drupal-focused large team, and I'm very aligned with the design of architectures and certain Drupal APIs such as Migrate API and its backend in general. In my spare time I'm collaborating with [Open Source Software](https://www.redhat.com/en/topics/open-source/what-is-open-source) implementing patches for Drupal or spreading through articles I'm writing in different channels...
 
- ## My GitHub Stats <img src="https://media.giphy.com/media/UqYGedG0TrJMsFOn7V/giphy.gif" width="40px">
+ ## My GitHub Stats <img src="https://media.giphy.com/media/UqYGedG0TrJMsFOn7V/giphy.gif" width="100px">
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidjguru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -28,7 +28,7 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digita
 </p>
 
 
-## Where do you can see me? <img src="https://media.giphy.com/media/pWBz26C8pAATK/giphy.gif" width="40px">
+## Where do you can see me? <img src="https://media.giphy.com/media/pWBz26C8pAATK/giphy.gif" width="100px">
 - My personal website: [https://www.therussianlullaby.com](https://www.therussianlullaby.com).  
 - My personal sketchbook: [https://davidjguru.github.io](https://davidjguru.github.io/).
 - My Gitlab profile: [https://gitlab.com/davidjguru](https://gitlab.com/davidjguru).
