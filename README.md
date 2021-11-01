@@ -1,5 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm David Rodríguez, [@davidjguru](https://twitter.com/davidjguru)
-<img src="https://i.imgur.com/may08EN.png">
+<img src="https://i.imgur.com/may08EN.png" alt="Display image header for The Russian Lullaby website.">   
+
 - **Credits:** the original image was taken from Unsplash, user [@samuelbryngelsson](https://unsplash.com/@samuelbryngelsson).  
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidjguru/)
