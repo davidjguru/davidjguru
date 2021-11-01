@@ -2,14 +2,14 @@
 <img src="https://i.imgur.com/may08EN.png">
 - **Credits:** the original image was taken from Unsplash, user [@samuelbryngelsson](https://unsplash.com/@samuelbryngelsson).  
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidjguru/)  
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?logo=firefox&logoColor=white)](https://www.therussianlullaby.com/)  
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white)](https://twitter.com/davidjguru)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?logo=Instagram&logoColor=white)](https://www.instagram.com/davidjguru/)  
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?logo=medium&logoColor=white)](https://davidjguru.medium.com/)  
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-orange?logo=gitlab)](https://gitlab.com/davidjguru)  
-[![Drupal.org Badge](https://img.shields.io/badge/-Drupal.org-blue?logo=drupal)](https://www.drupal.org/u/davidjguru)  
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?logo=Telegram&logoColor=white)](https://t.me/davidjguru)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidjguru/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?logo=firefox&logoColor=white)](https://www.therussianlullaby.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white)](https://twitter.com/davidjguru)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-8e49c2?logo=Instagram&logoColor=white)](https://www.instagram.com/davidjguru/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?logo=medium&logoColor=white)](https://davidjguru.medium.com/)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-orange?logo=gitlab)](https://gitlab.com/davidjguru)
+[![Drupal.org Badge](https://img.shields.io/badge/-Drupal.org-blue?logo=drupal)](https://www.drupal.org/u/davidjguru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?logo=Telegram&logoColor=white)](https://t.me/davidjguru)
 
 ## Who am I?
 My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...a long time has passed since then.  
