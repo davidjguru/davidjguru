@@ -12,6 +12,8 @@
 [![Drupal.org Badge](https://img.shields.io/badge/-Drupal.org-blue?logo=drupal)](https://www.drupal.org/u/davidjguru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?logo=Telegram&logoColor=white)](https://t.me/davidjguru)
 
+## Thank you for your visit! [visitors](https://visitor-badge.glitch.me/badge?page_id=davidjguru.davidjguru&left_color=green&right_color=red)  
+
 ## Who am I?
 My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...a long time has passed since then.  
 
