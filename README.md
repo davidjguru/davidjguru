@@ -10,23 +10,22 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?logo=medium&logoColor=white)](https://davidjguru.medium.com/)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-orange?logo=gitlab)](https://gitlab.com/davidjguru)
 [![Drupal.org Badge](https://img.shields.io/badge/-Drupal.org-blue?logo=drupal)](https://www.drupal.org/u/davidjguru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?logo=Telegram&logoColor=white)](https://t.me/davidjguru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?logo=Telegram&logoColor=white)](https://t.me/davidjguru) **Thank you for your visit!** ![visitors](https://visitor-badge.glitch.me/badge?page_id=davidjguru.davidjguru&left_color=green&right_color=red)  
 
-- **Thank you for your visit!** ![visitors](https://visitor-badge.glitch.me/badge?page_id=davidjguru.davidjguru&left_color=green&right_color=red)  
-
-## Who am I? <img src="https://media.giphy.com/media/M9UVevFomIBjOsPDck/giphy.gif" width="150px">
+## 🤖 Who am I? <img src="https://media.giphy.com/media/M9UVevFomIBjOsPDck/giphy.gif" width="150px">
 My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...a long time has passed since then.  
 
-## What do I work on? <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="150px">
+## ☠️ What do I work on? <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="150px">
 Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digitalist Sweden](https://www.digitalist.se/english) in a Drupal-focused large team, and I'm very aligned with the design of architectures and certain Drupal APIs such as Migrate API and its backend in general. In my spare time I'm collaborating with [Open Source Software](https://www.redhat.com/en/topics/open-source/what-is-open-source) implementing patches for Drupal or spreading through articles I'm writing in different channels...
 
- ## My GitHub Stats <img src="https://media.giphy.com/media/UqYGedG0TrJMsFOn7V/giphy.gif" width="150px">
+ ## 👻 My GitHub Stats <img src="https://media.giphy.com/media/UqYGedG0TrJMsFOn7V/giphy.gif" width="150px">
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidjguru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidjguru&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+## 👾 This Week I Spent My Time On <img src="https://media.giphy.com/media/10zsjaH4g0GgmY/giphy.gif" width="150px">
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -34,7 +33,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-## Where do you can see me? <img src="https://media.giphy.com/media/pWBz26C8pAATK/giphy.gif" width="150px">
+## 👽 Where do you can see me? <img src="https://media.giphy.com/media/pWBz26C8pAATK/giphy.gif" width="150px">
 - My personal website: [https://www.therussianlullaby.com](https://www.therussianlullaby.com).  
 - My personal sketchbook: [https://davidjguru.github.io](https://davidjguru.github.io/).
 - My Gitlab profile: [https://gitlab.com/davidjguru](https://gitlab.com/davidjguru).
@@ -47,7 +46,7 @@ No Activity tracked this Week
 
 Here you can see my profile in Drupal.org: [https://www.drupal.org/u/davidjguru](https://www.drupal.org/u/davidjguru).
 
-## ---More:---- <img src="https://media.giphy.com/media/vtyLsoibuhRYI/giphy.gif" width="150px">
+## 🤡 ---More:---- <img src="https://media.giphy.com/media/vtyLsoibuhRYI/giphy.gif" width="150px">
 
 - 🔭 I’m currently working in Drupal sites and platforms, as Senior Drupal Developer in Digitalist Sweden.
 - 🌱 I’m currently learning about some JavaScript frameworks.
