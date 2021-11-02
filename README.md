@@ -2,6 +2,7 @@
 <img src="https://i.imgur.com/may08EN.png" alt="Display image header for The Russian Lullaby website."/>   
 
 - **Credits:** the original image was taken from Unsplash, user [@samuelbryngelsson](https://unsplash.com/@samuelbryngelsson).  
+- **Thank you for your visit!** ![visitors](https://visitor-badge.glitch.me/badge?page_id=davidjguru.davidjguru&left_color=green&right_color=red)  
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidjguru/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?logo=firefox&logoColor=white)](https://www.therussianlullaby.com/)
@@ -10,7 +11,10 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?logo=medium&logoColor=white)](https://davidjguru.medium.com/)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-orange?logo=gitlab)](https://gitlab.com/davidjguru)
 [![Drupal.org Badge](https://img.shields.io/badge/-Drupal.org-blue?logo=drupal)](https://www.drupal.org/u/davidjguru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?logo=Telegram&logoColor=white)](https://t.me/davidjguru) **Thank you for your visit!** ![visitors](https://visitor-badge.glitch.me/badge?page_id=davidjguru.davidjguru&left_color=green&right_color=red)  
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?logo=Telegram&logoColor=white)](https://t.me/davidjguru)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-395693?logo=facebook&logoColor=white)](https://www.facebook.com/davidjguru/)
+[![LastFM Badge](https://img.shields.io/badge/-last.fm-080808?logo=last.fm&logoColor=red)](https://www.last.fm/user/davidjguru)  
+
 
 ## 🤖 Who am I? <img src="https://media.giphy.com/media/M9UVevFomIBjOsPDck/giphy.gif" width="150px">
 My name is David, I'm Andalusian (from the south of the spanish state) and I've been working as a developer since 2007, starting developing Geographic Information Systems based in Java...a long time has passed since then.  
@@ -54,4 +58,4 @@ Here you can see my profile in Drupal.org: [https://www.drupal.org/u/davidjguru]
 - 💬 Ask me about Drupal. 
 - 📫 How to reach me: [The contact form in my website](https://www.therussianlullaby.com/contact/), [@davidjguru](https://twitter.com/davidjguru) in twitter, davidjguru@gmail or  me@therussianlullaby.com by mail. 
 - 😄 Pronouns: He / Him.
-- ⚡ Fun fact: I'm interested in acting and films, and I have participated in several shootings as a hobby, so You can see my (pretty) face in some spanish films and series. This is my IMDB profile: [https://www.imdb.com/name/nm7723436](https://www.imdb.com/name/nm7723436/) - Although many references are missing -.   
+- ⚡ **Fun fact:** I'm interested in acting and films, and I have participated in several shootings as a hobby, so You can see my (pretty) face in some spanish films and series. This is my IMDB profile: [https://www.imdb.com/name/nm7723436](https://www.imdb.com/name/nm7723436/) - Although many references are missing -.   
