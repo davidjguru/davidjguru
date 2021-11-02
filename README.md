@@ -27,6 +27,9 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digita
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidjguru&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## Where do you can see me? <img src="https://media.giphy.com/media/pWBz26C8pAATK/giphy.gif" width="150px">
 - My personal website: [https://www.therussianlullaby.com](https://www.therussianlullaby.com).  
