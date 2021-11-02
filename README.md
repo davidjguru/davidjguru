@@ -28,6 +28,9 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digita
 </p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
