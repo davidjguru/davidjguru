@@ -32,7 +32,12 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digita
 ## 👾 This Week I Spent My Time On <img src="https://media.giphy.com/media/10zsjaH4g0GgmY/giphy.gif" width="150px">
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 October, 2021 - 05 November, 2021
+
+Bash       39 mins         ██████████████████░░░░░░░   71.35 % 
+YAML       11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.12 % 
+Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 <!--END_SECTION:waka-->
 
