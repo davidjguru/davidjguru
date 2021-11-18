@@ -32,7 +32,7 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digita
 ## 👾 This Week I Spent My Time On <img src="https://media.giphy.com/media/10zsjaH4g0GgmY/giphy.gif" width="150px">
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2021 - 16 November, 2021
+Week: 11 November, 2021 - 17 November, 2021
 
 PHP       10 hrs 19 mins  █████████████████▓░░░░░░░   71.31 % 
 GraphQL   1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
