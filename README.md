@@ -49,6 +49,7 @@ Other      11 mins         █░░░░░░░░░░░░░░░░�
 - My Gitlab profile: [https://gitlab.com/davidjguru](https://gitlab.com/davidjguru).
 - [My Drupal Custom Modules Sandbox, for testing ideas and saving the examples from posts](https://gitlab.com/davidjguru/drupal-custom-modules-examples).
 - [My collection of Snippets](https://gitlab.com/users/davidjguru/snippets).
+- [My collection of Gists](https://gist.github.com/davidjguru).  
 - My profile in dev.to: [https://dev.to/davidjguru](https://dev.to/davidjguru).
 - My Linkedin profile: [https://www.linkedin.com/in/davidjguru](https://www.linkedin.com/in/davidjguru/).
 - Some Drupal guides written in Spanish from my Medium profile: [https://medium.com/@davidjguru](https://medium.com/@davidjguru).
