@@ -32,7 +32,7 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digita
 ## 👾 This Week I Spent My Time On <img src="https://media.giphy.com/media/10zsjaH4g0GgmY/giphy.gif" width="150px">
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
 Total: 5 hrs 18 mins
 
