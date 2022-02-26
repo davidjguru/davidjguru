@@ -32,7 +32,7 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digita
 ## 👾 This Week I Spent My Time On <img src="https://media.giphy.com/media/10zsjaH4g0GgmY/giphy.gif" width="150px">
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
 PHP        2 hrs 12 mins   ██████████░░░░░░░░░░░░░░░   40.27 % 
 Markdown   1 hr 26 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.32 % 
