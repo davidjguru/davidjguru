@@ -33,10 +33,11 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digita
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2022 - To: 05 March 2022
+From: 27 February 2022 - To: 06 March 2022
 
-Markdown   1 hr 16 mins    ██████████████████▓░░░░░░   74.89 %
-Other      10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Markdown   1 hr 41 mins    █████████████████▒░░░░░░░   69.11 %
+PHP        20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Other      10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
 ```
 
 <!--END_SECTION:waka-->
