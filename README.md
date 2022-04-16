@@ -33,9 +33,9 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digita
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2022 - To: 14 April 2022
+From: 08 April 2022 - To: 15 April 2022
 
-Other   6 hrs 5 mins    ███████████████▒░░░░░░░░░   60.77 %
+Other   6 hrs           ███████████████░░░░░░░░░░   60.42 %
 ```
 
 <!--END_SECTION:waka-->
