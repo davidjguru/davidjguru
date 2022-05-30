@@ -33,7 +33,7 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [Digita
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2022 - To: 28 May 2022
+From: 22 May 2022 - To: 29 May 2022
 
 YAML         2 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   32.23 %
 JSON         1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
