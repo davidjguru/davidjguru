@@ -33,11 +33,12 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [FFW Ag
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 September 2022 - To: 02 October 2022
+From: 26 September 2022 - To: 03 October 2022
 
-YAML       1 hr 51 mins    ████████░░░░░░░░░░░░░░░░░   32.16 %
-Markdown   1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-Other      1 hr 2 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
+Markdown     2 hrs 16 mins   ██████████▓░░░░░░░░░░░░░░   42.76 %
+YAML         1 hr 38 mins    ███████▓░░░░░░░░░░░░░░░░░   30.82 %
+Bash         57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
+Other        15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->
