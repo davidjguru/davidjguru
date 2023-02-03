@@ -33,10 +33,9 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [FFW Ag
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 January 2023 - To: 31 January 2023
+From: 25 January 2023 - To: 01 February 2023
 
-YAML    1 hr 2 mins     ███████████▓░░░░░░░░░░░░░   47.11 %
-Other   38 mins         ███████▒░░░░░░░░░░░░░░░░░   28.96 %
+Other   2 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   40.46 %
 ```
 
 <!--END_SECTION:waka-->
