@@ -33,10 +33,12 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [FFW Ag
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2023 - To: 05 March 2023
+From: 27 February 2023 - To: 06 March 2023
 
-Twig         36 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
-Other        32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+JavaScript   1 hr 26 mins    █████████░░░░░░░░░░░░░░░░   35.65 %
+PHP          40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+Twig         40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+Other        34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
 ```
 
 <!--END_SECTION:waka-->
