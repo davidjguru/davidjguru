@@ -33,10 +33,9 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [FFW Ag
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-Twig    1 hr 25 mins    ████████████▓░░░░░░░░░░░░   50.71 %
-Other   44 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.39 %
+Other   1 hr 57 mins    ████████████░░░░░░░░░░░░░   48.66 %
 ```
 
 <!--END_SECTION:waka-->
