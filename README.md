@@ -33,7 +33,7 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [FFW Ag
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2023 - To: 30 May 2023
+From: 24 May 2023 - To: 31 May 2023
 
 Markdown   1 hr 18 mins    ██████████████████████░░░   87.88 %
 AsciiDoc   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
