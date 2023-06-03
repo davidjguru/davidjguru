@@ -32,11 +32,10 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [FFW Ag
 ## 👾 This Week I Spent My Time On <img src="https://media.giphy.com/media/10zsjaH4g0GgmY/giphy.gif" width="150px">
 <!--START_SECTION:waka-->
 
-```text
-From: 24 May 2023 - To: 31 May 2023
+```txt
+From: 25 May 2023 - To: 01 June 2023
 
-Markdown   1 hr 18 mins    ██████████████████████░░░   87.88 %
-AsciiDoc   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+Markdown   1 hr            █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
