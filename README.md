@@ -33,7 +33,7 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [FFW Ag
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2023 - To: 06 August 2023
+From: 31 July 2023 - To: 07 August 2023
 
 JavaScript   14 mins         ██████████████████░░░░░░░   72.17 %
 YAML         4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.49 %
