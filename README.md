@@ -33,7 +33,7 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [FFW Ag
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
 TypeScript   2 hrs 12 mins   ███████████████████▓░░░░░   78.33 %
 YAML         19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
