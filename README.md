@@ -33,12 +33,12 @@ Now I'm a Software Engineer working with PHP in Drupal-based projects at [FFW Ag
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-Markdown     1 hr 7 mins     █████████████▓░░░░░░░░░░░   54.94 %
-PHP          38 mins         ███████▓░░░░░░░░░░░░░░░░░   31.31 %
-Diff         16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+PHP          38 mins         █████████████▓░░░░░░░░░░░   54.69 %
+Diff         16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.62 %
+Markdown     14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
